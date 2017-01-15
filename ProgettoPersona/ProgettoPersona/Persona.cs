@@ -38,6 +38,8 @@ namespace ProgettoPersona
         {
             string output;
             return output = "nome :" + nome + "\r\n";
+                   output = "cognome :" + cognome + "\r\n";
+                   output = "anni :" + anni + "\r\n";
         }
 
     }
